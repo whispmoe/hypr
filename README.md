@@ -2,8 +2,8 @@
 personal docs for my Arch Linux + Hyprland setup
 
 ## contents
-- **[packages](/docs/packages.md)**: breakdown of packages used and their purpose.
-- **[applications](/docs/applications.md)**: breakdown of more general purpose applications used, including flatpaks.
+- **[packages](/docs/packages.md)** - breakdown of packages used and their purpose.
+- **[applications](/docs/applications.md)** - breakdown of more general purpose applications used, including flatpaks.
 
 ## notes
 - thorough the docs, it is assumed you already have basic (arch) linux knowledge.
