@@ -1,9 +1,13 @@
 # hypr
-guide and docs for my Arch Linux + Hyprland setup
+personal docs for my Arch Linux + Hyprland setup
+
+## contents
+- **[packages](/docs/packages.md)**: breakdown of packages used and their purpose.
+- **[applications](/docs/applications.md)**: breakdown of more general purpose applications used, including flatpaks.
 
 ## notes
+- thorough the docs, it is assumed you already have basic (arch) linux knowledge.
 - these docs are focused on the desktop environment rather than the whole installation process. details such as system partitioning, bootloader installation, etc. are **outside the scope.**
-- this is **not** a full-fledged guide on how to install Arch Linux and Hyprland. it is assumed you know what you are doing, and **you should always refer to the [Arch Wiki](https://wiki.archlinux.org/title/Main_page) and [Hyprland Wiki](https://wiki.hypr.land/).**
 - as always, **you are the only one responsible for any changes made to your system.**
 
 ## contributing
