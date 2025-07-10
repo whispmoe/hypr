@@ -7,7 +7,7 @@ a documented list of packages used for the final setup. *base, system, and other
 ---
 
 ## uncategorized packages
-*any packages listed there are recently installed packages yet to be categorized or documented*
+*recently installed packages yet to be categorized or documented*
 
 ```
 nothing here, yet!
