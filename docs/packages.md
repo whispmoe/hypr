@@ -41,9 +41,10 @@ apple_cursor noto-fonts noto-fonts-cjk papirus-icon-theme plymouth ttf-cascadia-
 ## system & utilities
 
 ```
-git power-profiles-daemon zsh
+nano git networkmanager power-profiles-daemon zsh
 ```
 
+- **nano** - terminal-based text editor
 - **git** - version control system, used for cloning and managing git repos
 - **networkmanager** - as the name suggests, the network manager
 - **power-profiles-daemon** - utility for switching and managing power profiles
