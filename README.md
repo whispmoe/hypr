@@ -1,4 +1,4 @@
-# hypr
+# hyprdocs
 personal docs for my Arch Linux + Hyprland setup
 
 ## contents
