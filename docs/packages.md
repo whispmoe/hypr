@@ -9,9 +9,7 @@ a documented list of packages used for the final setup. *base, system, and other
 ## uncategorized packages
 *recently installed packages yet to be categorized or documented*
 
-```
-nothing here, yet!
-```
+> *nothing here yet...*
 
 ## desktop environment
 
@@ -52,4 +50,4 @@ nano git networkmanager power-profiles-daemon zsh
 
 ## applications
 
-for a detailed description of apps, including flatpak packages, see [`docs/applications.md`](TODO)
+for a detailed description of general purpose apps, including flatpak packages, see [`docs/applications.md`](/docs/applications.md)
