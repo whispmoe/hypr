@@ -6,7 +6,7 @@ personal docs for my Arch Linux + Hyprland setup
 - **[applications](/docs/applications.md)** - breakdown of more general purpose applications used, including flatpaks.
 
 ## notes
-- thorough the docs, it is assumed you already have basic (arch) linux knowledge.
+- throughout these docs, it is assumed you already have basic (arch) linux knowledge.
 - these docs are focused on the desktop environment rather than the whole installation process. details such as system partitioning, bootloader installation, etc. are **outside the scope.**
 - as always, **you are the only one responsible for any changes made to your system.**
 
