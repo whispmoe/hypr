@@ -47,7 +47,7 @@ flatpak git networkmanager power-profiles-daemon zsh uwsm
 - **networkmanager** - as the name suggests, the network manager
 - **power-profiles-daemon** - utility for switching and managing power profiles
 - **zsh** - powerful, customizable shell. used as a bash replacement
-- **uwsm** - universal wayland session manager, *see [`/docs/uwsm.md`](/docs/uwsm.md)*
+- **uwsm** - universal wayland session manager, see [`/docs/uwsm.md`](/docs/uwsm.md)
 
 ## applications
 
